@@ -1,0 +1,10 @@
+__pycache__/
+CN/
+DataScience/
+New/
+PythonMySQL/
+PythonNotebook/
+PythonNotebook2/
+*.avi
+*.txt
+*.db
